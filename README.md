@@ -61,7 +61,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Ratna-Babu/Ratna-Babu/output/snake.svg" alt="Snake animation" />
-
-###
